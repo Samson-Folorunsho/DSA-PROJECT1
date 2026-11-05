@@ -4,5 +4,5 @@
 This is where i build my first portfolio while learning at incubator hub
 ```
 SELLECT A,B,C
-WHER A>B
+WHERE A>B
 ```
